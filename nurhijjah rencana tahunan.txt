@@ -2,6 +2,7 @@ rencana satu tahun kedepan
 belajar java 
 *framework java 
 *view
+*react
 struktur data
 belajar php
 *laravel
