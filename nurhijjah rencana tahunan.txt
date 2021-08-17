@@ -1,7 +1,9 @@
 rencana satu tahun kedepan
 belajar java 
 *framework java 
-*struktur data
+angular
+react
 belajar php
+laravel
 membuat program
 implementasikan
