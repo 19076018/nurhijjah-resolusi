@@ -1,9 +1,11 @@
 rencana satu tahun kedepan
 belajar java 
 *framework java 
-angular
-react
+*view
+*react
+struktur data
 belajar php
-laravel
+*laravel
 membuat program
 implementasikan
+python
