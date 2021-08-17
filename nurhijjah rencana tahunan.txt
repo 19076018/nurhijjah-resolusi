@@ -1,5 +1,6 @@
 rencana satu tahun kedepan
 belajar java 
+*framework java 
 belajar php
 membuat program
 implementasikan
